@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["FitnessFunction","The cmaes_loop function requires a type that implements this trait. Implementing it for a dummy type works fine."]]});

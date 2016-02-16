@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["gene",""],["network","The neural network struct."]]});
